@@ -40,7 +40,7 @@ Including all the key words I do not consider myself as a Hacker, I ussualy say 
 - Web Development
 - Bug Bounty (More Deeply)
 
-# Jobs purposes (Ther's no one exactly)
+# Jobs purposes (There's no one exactly)
 
 - Linux Engineer
 - Pentester
