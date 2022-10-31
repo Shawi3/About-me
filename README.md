@@ -45,7 +45,7 @@ Including all the key words I do not consider myself as a Hacker, I ussualy say 
 - Linux Engineer
 - Pentester
 - Cyber Security Engineer
-- Newtwork Administrartor
+- Network Administrator
 - Read Team
 - Data Scientist
 - System Developer
